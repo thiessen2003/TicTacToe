@@ -75,9 +75,11 @@ h1 {
 }
 
 .reset {
-    border: 1px solid #000;
-    background-color: rgba(0, 0, 0, 0.2);
-    color: #FFF;
+    border: 1px solid #fff;
+    background-color: #fff;
+    color: #000;
+    font-weight: bold;
     padding: 10px;
     margin-top: 20px;
+    border-radius: 10px;
 }
